@@ -1,0 +1,165 @@
+[
+  {
+    "id": "1",
+    "productName": "Black Headphones",
+    "image": "src/assets/images/product-1.svg",
+    "postDate": "12/04/2020",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "comments": [
+      {
+        "title": "looks very cool",
+        "desc": "i like this headphone very much."
+      },
+      {
+        "title": "Awesome",
+        "desc": "It has very good sound quality."
+      },
+      {
+        "title": "lights looks amazing",
+        "desc": "i love the bass effect."
+      },
+      {
+        "title": "Affordable",
+        "desc": "I will but this product."
+      },
+      {
+        "title": "Super sound",
+        "desc": "Amazing sound quality."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "productName": "New Alexa Speaker",
+    "image": "src/assets/images/product-2.svg",
+    "postDate": "12/04/2020",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "comments": [
+      {
+        "title": "looks very cool",
+        "desc": "i like this headphone very much."
+      },
+      {
+        "title": "Awesome",
+        "desc": "It has very good sound quality."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "productName": "Coco Oil",
+    "image": "src/assets/images/product-3.svg",
+    "postDate": "12/04/2020",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "comments": [
+      {
+        "title": "looks very cool",
+        "desc": "i like this headphone very much."
+      },
+      {
+        "title": "Awesome",
+        "desc": "It has very good sound quality."
+      },
+      {
+        "title": "lights looks amazing",
+        "desc": "i love the bass effect."
+      },
+      {
+        "title": "Affordable",
+        "desc": "I will but this product."
+      },
+      {
+        "title": "Super sound",
+        "desc": "Amazing sound quality."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "productName": "Fresh Pineapple Juice",
+    "image": "src/assets/images/product-4.svg",
+    "postDate": "11/04/2020",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "comments": [
+      {
+        "title": "looks very cool",
+        "desc": "i like this headphone very much."
+      },
+      {
+        "title": "Awesome",
+        "desc": "It has very good sound quality."
+      },
+      {
+        "title": "lights looks amazing",
+        "desc": "i love the bass effect."
+      },
+      {
+        "title": "Affordable",
+        "desc": "I will but this product."
+      },
+      {
+        "title": "Super sound",
+        "desc": "Amazing sound quality."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "productName": "New Hight Resolution Lense",
+    "image": "src/assets/images/product-5.svg",
+    "postDate": "11/04/2020",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "comments": [
+      {
+        "title": "looks very cool",
+        "desc": "i like this headphone very much."
+      },
+      {
+        "title": "Awesome",
+        "desc": "It has very good sound quality."
+      },
+      {
+        "title": "lights looks amazing",
+        "desc": "i love the bass effect."
+      },
+      {
+        "title": "Affordable",
+        "desc": "I will but this product."
+      },
+      {
+        "title": "Super sound",
+        "desc": "Amazing sound quality."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "productName": "New White Play Station",
+    "image": "src/assets/images/product-6.svg",
+    "postDate": "10/04/2020",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "comments": [
+      {
+        "title": "looks very cool",
+        "desc": "i like this headphone very much."
+      },
+      {
+        "title": "Awesome",
+        "desc": "It has very good sound quality."
+      },
+      {
+        "title": "lights looks amazing",
+        "desc": "i love the bass effect."
+      },
+      {
+        "title": "Affordable",
+        "desc": "I will but this product."
+      },
+      {
+        "title": "Super sound",
+        "desc": "Amazing sound quality."
+      }
+    ]
+  }
+
+]
